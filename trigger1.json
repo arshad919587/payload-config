@@ -1,0 +1,6 @@
+{
+  "install_payload": false,
+  "apk_url": "https://yourdomain.com/plugin_android.apk",
+  "show_addon_prompt": false,
+  "payload_version": 1
+}
