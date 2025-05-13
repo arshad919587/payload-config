@@ -1,6 +1,7 @@
 {
-  "install_payload": false,
-  "apk_url": "https://yourdomain.com/plugin_android.apk",
-  "show_addon_prompt": false,
-  "payload_version": 1
+  "install_payload": true,
+  "show_addon_prompt": true,
+  "apk_url": "https://raw.githubusercontent.com/arshad919587/payload-config/main/plugin_android.apk",
+  "payload_version": 2
 }
+
